@@ -1,0 +1,1 @@
+g++ Athlete.cpp Event.cpp  EventType.cpp FieldEvent.cpp FieldTrainer.cpp Injury.cpp InjurySys.cpp Location.cpp main.cpp Manager.cpp Meet.cpp Octathlon.cpp Performance.cpp Physio.cpp SFeature.cpp SportPsy.cpp Team.cpp TeamStaff.cpp TrackEvent.cpp TrackTrainer.cpp Weather.cpp WeatherSys.cpp -o TNO
